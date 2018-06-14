@@ -1,12 +1,15 @@
 # Cloud-Security
 
-## SharePoint
-https://github.com/codingo/SharePoint-Security - for sharepoint (carries over into o365)
+## SharePoint - O365
+
+- https://github.com/codingo/SharePoint-Security
 
 ## AWS
-https://github.com/nccgroup/Scout2
+
+- https://github.com/nccgroup/Scout2
 
 ## AZURE
-https://github.com/nccgroup/azucar
-https://github.com/mwrlabs/Azurite
-https://nostarch.com/azure
+
+- https://github.com/nccgroup/azucar
+- https://github.com/mwrlabs/Azurite
+- https://nostarch.com/azure
